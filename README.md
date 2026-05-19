@@ -2,6 +2,8 @@
 
 ShopMint is a modern, full-stack e-commerce application. It features a sleek, responsive design and a robust set of functionalities for a complete online shopping experience.
 
+#Live Demo : https://shopmint-ecommerce-website.netlify.app/
+
 ## 🚀 Features
 
 ### Frontend (React + Tailwind CSS)
