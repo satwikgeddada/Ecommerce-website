@@ -6,7 +6,7 @@ import ProductCard from './components/ProductCard';
 import ProductDetail from './components/ProductDetail';
 import { ChevronLeft } from 'lucide-react';
 
-const BACKEND_URL = "https://ecommerce-website-1-7xrd.onrender.com";
+const BACKEND_URL = "https://ecommerce-website-1-7xrd.onrender.com/api";
 const categories = ["All", "Electronics", "Mobiles", "Fashion", "Appliances", "Sports", "Books", "Toys"];
 
 function HomePage({ products, selectedCategory, setSelectedCategory, searchQuery, addToCart, setShowCheckout }) {
